@@ -1,5 +1,7 @@
 # Gin Inspector
 
+![Gin Inspector HTML Preview](https://github.com/fatihkahveci/gin-inspector/preview-html.png)
+
 Gin middleware for investigating http request.
 
 ## Usage
