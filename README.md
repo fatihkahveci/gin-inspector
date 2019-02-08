@@ -2,6 +2,8 @@
 
 ![Gin Inspector HTML Preview](https://raw.githubusercontent.com/fatihkahveci/gin-inspector/master/preview-html.png)
 
+![Gin Inspector HTML Preview 2](https://raw.githubusercontent.com/fatihkahveci/gin-inspector/master/preview-html-2.jpg)
+
 Gin middleware for investigating http request.
 
 ## Usage
